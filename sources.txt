@@ -1,0 +1,10 @@
+src/campuskit/Equipment.java
+src/campuskit/Member.java
+src/campuskit/Loan.java
+src/campuskit/State.java
+src/campuskit/Repository.java
+src/campuskit/FileRepository.java
+src/campuskit/LendingService.java
+src/campuskit/Reports.java
+src/campuskit/ConsoleApp.java
+src/campuskit/Main.java

@@ -1,0 +1,26 @@
+PASS new repository is empty
+PASS zero stock rejected
+PASS blank member rejected
+PASS control characters rejected
+PASS unknown member rejected
+PASS unknown equipment rejected
+PASS zero duration rejected
+PASS excess duration rejected
+PASS borrow reduces available stock
+PASS stock exhaustion rejected
+PASS due date is not overdue
+PASS overdue report uses injected clock
+PASS overdue member cannot borrow
+PASS return restores stock
+PASS duplicate return rejected
+PASS three-loan limit enforced
+PASS history survives reload
+PASS Unicode round trip
+PASS snapshot is isolated
+PASS save failure reported
+PASS failed save does not mutate live state
+PASS CLI recovers from invalid input
+PASS dangling loan rejected
+PASS corrupt snapshot rejected
+PASS corrupt file preserved
+All 25 checks passed.

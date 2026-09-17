@@ -1,0 +1,43 @@
+CampusKit | Equipment Lending Manager
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: Name: Quantity: Equipment ID: 1
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: Member name: Member ID: 1
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: Equipment ID: Member ID: Days (1-30): Loan ID: 1
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: ID | Name | Available / Total
+1 | Scientific Calculator | 1 / 2
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: CampusKit report - 2026-09-18
+Members: 1 | Equipment types: 1
+Total units: 2 | Available: 1 | Active loans: 1 | Overdue: 0
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: Loan ID: Return recorded.
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: Loan | Equipment | Member | Borrowed | Due | Returned
+1 | 1 | 1 | 2026-09-18 | 2026-09-25 | 2026-09-18
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: CampusKit report - 2026-09-18
+Members: 1 | Equipment types: 1
+Total units: 2 | Available: 2 | Active loans: 0 | Overdue: 0
+
+1 Add equipment   2 List inventory   3 Register member   4 List members
+5 Borrow          6 Return           7 Loan history      8 Report   0 Exit
+Choice: Goodbye. All successful changes are saved.
